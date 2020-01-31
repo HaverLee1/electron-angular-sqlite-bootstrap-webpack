@@ -1,3 +1,8 @@
+# Deprecated
+
+Please use other [starter which uses angular-cli](https://github.com/pamtbaau/electron-angular-cli-sqlite-bootstrap). Until a few releases ago, angular-cli could not be used in combination with custom webpack configurations. Things have changed... and I'm using other starter for own projects.
+
+
 # Sample application using Angular 8+, Electron 6+, SQLite3 4+, Bootstrap 4+ and Webpack 4+
 
 > For a similar application using Angular CLI see starter [electron-angular-cli-sqlite-bootstrap](https://github.com/pamtbaau/electron-angular-cli-sqlite-bootstrap)
