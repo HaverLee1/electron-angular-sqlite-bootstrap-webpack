@@ -1,6 +1,6 @@
 # Deprecated
 
-This repo is no onger maintained. I have created a new starter using angular-cli: https://github.com/pamtbaau/electron-angular-cli-sqlite-bootstrap. 
+This repo is no longer maintained and has been archived. I have created a new starter using angular-cli: https://github.com/pamtbaau/electron-angular-cli-sqlite-bootstrap. 
 
 Until a few releases ago, angular-cli could not be used in combination with custom webpack configurations. Things have changed for the good...
 
